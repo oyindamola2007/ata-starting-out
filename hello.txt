@@ -10,3 +10,7 @@ my name is damola and i am laerning verion control on ubuntu
 my name is damola and i am laerning verion control on ubuntu
 my name is damola and i am laerning verion control commit two
 my name is damola and i am laerning verion control commit two
+ git branch <new-branch-name> git branch <new-branch-name> git branch <new-branch-name> git branch <new-branch-name>
+ git branch <new-branch-name>
+ git branch <new-branch-name>
+
