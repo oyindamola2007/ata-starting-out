@@ -1,0 +1,5 @@
+git init - initializes a new repositroy
+git add- stages all files for commit
+git commit -saves a snapshot of changes
+git push- pushes file to github repository
+git log	- shows the commit history
